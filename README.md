@@ -20,7 +20,7 @@ Programming languages: C#, C++
 
 ## Domain Model
 
-![IMG](./domainModel.png)
+![IMG](./Wireframe.png)
 
 ## User Stories
 
